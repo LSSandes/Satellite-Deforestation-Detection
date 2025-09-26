@@ -5,9 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Latest-green.svg)](https://opencv.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Latest-orange.svg)](https://matplotlib.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-> ✨ Created with ❤️ by **Heleena Robert**
 
 ---
 
