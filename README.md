@@ -121,15 +121,3 @@ Results will be displayed on-screen and saved automatically in the `output/` fol
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👩‍💻 Author
-
-**Heleena Robert**  
-[GitHub](https://github.com/HeleenaRobert)
